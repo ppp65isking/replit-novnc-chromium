@@ -1,0 +1,4 @@
+.replit
+```toml
+run = "bash start.sh"
+```
